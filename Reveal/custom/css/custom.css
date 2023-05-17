@@ -1,0 +1,19 @@
+.align-center {
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+}
+.align-center img {
+  height: 100%;
+}
+code {
+  background-color: rgb(43, 49, 54);
+  padding: 5px;
+  border-radius: 3px;
+}
+
+img {
+  margin: 0 !important;
+  height: 76vh !important;
+  width: auto;
+}
